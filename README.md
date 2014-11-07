@@ -11,7 +11,7 @@ website (php, javascript) trying to do what the speeddial plugin for firefox doe
 
 problems to solve:<br></br>
 -security (injection prevent, authentication system)<br></br>
--write my own function to take screenshots/thumbnails from other websites
+-write my own function to take screenshots/thumbnails from other websites (wkhtmltoimage)
 
 i create thumbnails with that site http://api.thumbsniper.com/api_free.php i dont know if its ok but its the best i could do
 
